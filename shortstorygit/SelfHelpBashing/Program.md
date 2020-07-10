@@ -23,7 +23,7 @@ Even though you have several hundred languages to choose from, the only three th
 
 Use Kotlin only if you want to demonstrate how much you hate Oracle, and use Go only if you don't think the mascot is weird.
 
-#C++
+# C++
 
 This is the language I have the most experience with, which *in no way* means it's my favorite or even that I'm good at it.  To be any good at all you have to read the strategy guide, *Effective C++*, followed by *Exceptional C++*.  I really think this takes the fun out of it, though, and I'm more of a casual gamer.
 
@@ -31,7 +31,7 @@ The learning curve is pretty steep.  You have to really micro your units well, a
 
 Some people still prefer to play in C, and there have been tons of toxic arguments about that in the community.  Personally, I just like the feel of C++ more and want to see some new/delete combinations and namespaces.  To be honest, I just don't feel at home without seeing pairs::of::colors over everything.
 
-#Java
+# Java
 
 This language is an interesting one.  It has a really unique way of doing builds, meaning players use a common strategy of settings tons of build points and constructing units from a variety of different places.  The big drawback, though, is it's really hard to type the variables.  I actually have a really impressive APM, and even I get frustrated by how long it takes to write out some of the variable names.
 
@@ -39,7 +39,7 @@ If you can use C++, you can probably transition between the two pretty easily.  
 
 All in all, I think this is probably more forgiving than C++
 
-#Python
+# Python
 
 I don't really use Python at all and don't know much about it, but I fight opponents who use it constantly and keep getting my ass kicked.  Seriously, Python devs can lay down entire code bases before I've even finished downloading VSCode.
 
@@ -49,7 +49,7 @@ Doesn't help when I find out the python dev was actually a 12-year-old who learn
 
 **Bottom Line: Code in whatever you feel comfortable with, but it should probably be C++, Java, Python, or whatever that other language I said was**
 
-##Common Strategies
+## Common Strategies
 
 Shoot, I might have to break this up into another post.  Here are strategies people are using now that transcend language choice
 
@@ -60,7 +60,7 @@ Shoot, I might have to break this up into another post.  Here are strategies peo
 * **Dynamic programming**: Only the most advanced players can pull this one off.  I wouldn't even attempt it until you reach diamond league or above
 * **Trash talking the interviewer**: A very effective strategy, especially in Leetcode
 
-##Does this actually help?
+## Does this actually help?
 
 Look, I'm going to be honest with you...only the top 1% of the top 1% of Leetcode players can ever hope to do this competitively.  Believe me, I used to do this in person.  It is intense.
 
